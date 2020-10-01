@@ -1,4 +1,4 @@
-Website for phpMyAdmin
+Website for phpMyAdmin By: Naman
 ======================
 
 Django code for phpMyAdmin's website.
